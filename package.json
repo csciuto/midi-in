@@ -1,0 +1,9 @@
+{
+  "name": "midi-in",
+  "version": "1.0.0",
+  "description": "A MIDI keyboard plays a web app: one small ES module over Web MIDI",
+  "type": "module",
+  "main": "midi-in.js",
+  "license": "MIT",
+  "scripts": { "test": "node --test" }
+}
